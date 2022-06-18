@@ -6,5 +6,5 @@ $color[7F00FF]
 $image[https://vacefron.nl/api/grave?user=$userAvatar[$mentioned[1]]]
 $argsCheck[>1;Mention someone!]
 $addReactions[😭;⚰]
-$footer[Bot Made By Preston Gaming#1234]
+$footer[Bot Made By JohnHK#2333]
 $addTimestamp
