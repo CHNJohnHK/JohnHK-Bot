@@ -1,4 +1,4 @@
 $nomention
 $color[136DF3]
 $image[https://ctk-api.herokuapp.com/meme/$random[1;500]]
-$footer[Requested by $username]
+$footer[Made By JohnHK]
