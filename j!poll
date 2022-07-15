@@ -1,0 +1,7 @@
+$nomention
+$title[Poll]
+$description[Poll: $message]
+$footer[Poll by $username]
+$addTimestamp
+$color[$random[1;99999]]
+$addReactions[👍;👎]
