@@ -1,3 +1,4 @@
+
 $nomention
 $deletecommand
 $title[$randomText[deid from a tornado;deid from lava;deid from a killer;deid from covid]]
@@ -6,5 +7,6 @@ $color[7F00FF]
 $image[https://vacefron.nl/api/grave?user=$userAvatar[$mentioned[1]]]
 $argsCheck[>1;Mention someone!]
 $addReactions[😭;⚰]
-$footer[Made By JohnHK]
+$footer[Requested by $username]
 $addTimestamp
+$cooldown[10s;Error, The robot is broken!!!R.I.P.]
